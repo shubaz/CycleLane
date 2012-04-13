@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recording_title">CycleLane</string>
+    
+    <string name="app_name">CycleLane</string>
+<string name="previous_trips">Saved Trips:</string>
+<string name="startNewTrip">Start Trip!</string>
+<string name="pauseButtonLabel">Pause</string>
+<string name="finishedButtonLabel">Finish</string>
+
+<string name="enterTripInfo">And add any comments about your trip here</string>
+<string name="promptPurpose">Select the main purpose of this trip</string>
+<string name="uploadProgressTitle">Sending...</string>
+<string name="uploadProgressMessage">Sending your trip.\n\nThanks for using CycleLane!</string>
+<string name="state_recording">CycleLane - Recording...</string>
+<string name="state_paused">CycleLane - Paused...</string>
+
+
+
+
+
+
+
+
+</resources>
